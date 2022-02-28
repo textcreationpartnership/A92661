@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter concerning confession and absolution: written to a friend som yeers since. And now proposed to the consideration of the gathered churches in London. Imprimatur, John Downame.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92661</idno>
+            <idno type="STC">Wing S167</idno>
+            <idno type="STC">Thomason E596_4</idno>
+            <idno type="STC">ESTC R206943</idno>
+            <idno type="EEBO-CITATION">99866028</idno>
+            <idno type="PROQUEST">99866028</idno>
+            <idno type="VID">165577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165577)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E596[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter concerning confession and absolution: written to a friend som yeers since. And now proposed to the consideration of the gathered churches in London. Imprimatur, John Downame.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>5, 4-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Neile,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T. S.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "March 20 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Confession.</term>
+               <term>Absolution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165577:1" rendition="simple:additions"/>
+            <p>A LETTER CONCERNING CONFESSION AND ABSOLUTION: Written to a Friend ſome yeers ſince. And now propoſed to the Conſi<g ref="char:EOLhyphen"/>deration of the gathered Churches in LONDON.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>JOHN DOWNAME.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Francis Neile.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165577:2"/>
+            <pb n="1" facs="tcp:165577:2"/>
+            <head>A Letter written to a Friend touching CONFESSION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He conference that I had with you about <hi>Con<g ref="char:EOLhyphen"/>feſſion</hi> and <hi>Abſolution,</hi> hath occaſioned my fur<g ref="char:EOLhyphen"/>ther thoughts &amp; meditations thereon; which being freſh in memory, I have committed to Paper with intent you ſhould ſee them, that ſo you may conſider. And if upon ſerious thought you finde them diſagreeing with holy Scriptures, then I pray you ſhew me how, and impart for my help what you undoubtedly underſtand in this point. And if you meet with any phraſes that you like not, paſſe them over as not materially appertaining to the matter in hand. So I would deal with you, and ſo I deſire you to do with me. And in the next place I deſire, that you may not be minded like thoſe that ſlightly and eaſily let paſſe every thing that pleaſeth not their palate, and fleſhly minde, as this of <hi>Confeſſion</hi> may not. For it may be truly ſaid, the fleſh is at enmity with Confeſſion, for that it layeth it open, and ſhameth it. Yea Confeſſion ma<g ref="char:EOLhyphen"/>keth the ſoul ſtand trembling in a confuſed condition before men and Angels. And it may truly be ſaid of reall and peni<g ref="char:EOLhyphen"/>tentiall Confeſſion, that by it ſome mens ſins go to judgement before-hand.
+<note place="margin">1 Tim 5.24.</note> And being this is a truth, that all muſt come to judgement, and every ſecret muſt be made manifeſt, let the Chriſtians account it the unſpeakable kindneſſe, and love of our good God, that hath ordained ſo eaſie a judgement for his elect,
+<note place="margin">1 Cor. 6.2.</note> as to ſend his Embaſſadors who ſhall judge the world, his Miniſters afore-hand to take their Confeſſions, and in caſe they have committed ſome heinous fins, to lay upon them a penance of watching, faſting, prayer, alms, or hard labour, &amp;c. ſo puniſhing their bodies in this life, that they might not periſh with the world in the life to come. This is a<pb n="1" facs="tcp:165577:3"/>great mercy, and not common to all;
+<note place="margin">1 Cor. 11.32.</note> and beſides our loving Lord is loath to lay his own hand upon us, as he ſaith, he doth not willingly afflict, nor grieve the children of men. If we would chaſtiſe our ſelves, we ſhould not be chaſtiſed of the Lord.
+<note place="margin">1 Cor. 11.31.</note> Now what ſhould let, that we accept not of this great mercy, and be willing to be judged by Gods Embaſſadours. And let not any one think this needleſſe for ſuch perſons as are eminent for knowledge.
+<note place="margin">Deut. 17. Mal. 1.7.</note> Some are ignorant, ſay they, and that may occaſion them to go to the Prieſts for Law and Judg<g ref="char:EOLhyphen"/>ment. The Prieſts lips are to keep knowledge, and the people to ſeek Law at their mouth; but ſome have more underſtand<g ref="char:EOLhyphen"/>ing than their Teachers, what need ſuch go? I anſwer, he is a proud man that will not ſubmit to Gods way.
+<note place="margin">Pſal. 119.99.</note> Our Saviour, Lord of heaven and earth, hath ſhewed us an example of ano<g ref="char:EOLhyphen"/>ther faſhion.
+<note place="margin">Matth. 3.14,15.</note> 
+               <hi>John</hi> ſaid to our Lord, <hi>I have need to be baptized of thee, and comeſt thou to me?</hi> Obſerve our Lords anſwer. <hi>Suffer it to be,</hi> ſaith he, <hi>for it behoveth us to fulfill all righteouſnes.</hi> So likewiſe under the Law it is not to be doubted, but there was many a Jew without the help of a Prieſt diſcern his own leproſie, and alſo pronounce himſelf unclean, yea and ſeparate himſelf ac<g ref="char:EOLhyphen"/>cording to Law. Yet this was not approveable, without the Prieſts had done it; and when that Leper was cured, he was not ſo eſteemed till he was ſo pronounced by the Prieſt, and a ſacrifice offered, as when our Lord himſelf had cleanſed the Leper, <hi>Matth.</hi>
+8.4. yet to fulfill all righteouſneſſe, he com<g ref="char:EOLhyphen"/>manded the ſaid leper to go to the Prieſt, and offer a gift, which <hi>Moſes</hi> had commanded for a teſtimony. So that if there be men of ſuch knowledge that underſtand all myſteries, if they have lived looſe lives, committed heinous and great ſins, and yet think to be pardoned, and juſtified without the help of Gods Miniſters, their way is not Gods way, neither can they produce any holy man in former ages that hath troden ſuch a path.</p>
+            <p>But let us conſider further, what reaſons may induce us to ſubmit to this Ordinance.</p>
+            <p>
+               <note place="margin">1.</note>Firſt, for the Antiquity of it we finde ſome footſteps there<g ref="char:EOLhyphen"/>of under the Law, yea before the Law, though more darkly, for God himſelf required a confeſſion of <hi>Adam, Eve,</hi> and <hi>Cain,</hi> and accordingly proceeds againſt them. And for the puniſh<g ref="char:EOLhyphen"/>ment<pb n="5" facs="tcp:165577:3"/>of <hi>Adam</hi> and <hi>Eve,</hi> whereunto they were ſentenced, name<g ref="char:EOLhyphen"/>ly, that in the ſweat of his brows he ſhould eat his bread, and ſhe bring forth in ſorrow, it may well be called a penance im<g ref="char:EOLhyphen"/>poſed upon them for ſaving their ſouls.
+<note place="margin">1 Tim. 2.15.</note> For as he by labour, ſo ſhe by ſorrow in child-bearing ſhould be ſaved, if they con<g ref="char:EOLhyphen"/>tinue in the faith. The like example in another place we have of God himſelf.
+<hi>Aaron</hi> and his ſiſter <hi>Miriam</hi> having murmur<g ref="char:EOLhyphen"/>ed againſt
+<hi>Moſes,</hi> about taking an Aethiopian to wife; God was ſo diſpleaſed with their murmuring, that he ſmote <hi>Mi<g ref="char:EOLhyphen"/>riam</hi> with leproſie, which did occaſion <hi>Aaron,</hi> as for himſelf, ſo for his ſiſter to confeſſe their fault to <hi>Moſes:</hi> and
+<hi>Moſes</hi> having prayed to God for her, the Lord healed her; but what though ſhe were healed, yet for her penance or puniſhment, <hi>let her be ſeparated ſeven dayes,</hi> ſaith God, that ſo ſhe might be aſhamed. For if her father had ſpit in her face, ſhould ſhe not be aſha<g ref="char:EOLhyphen"/>med? this was done by Gods own appointment. But under the Law we may ſee the footſteps thereof more manifeſt; though not ſo perſpicuous as under the Goſpel, where truths appear as it were with open face.</p>
+            <p>In the time of the Law we finde it manifeſt,
+<note place="margin">Levit. 5.5. Numb 5.6.</note> that God com<g ref="char:EOLhyphen"/>manded all ſuch men and women as having ſinned ſhould come to the Prieſts, and make confeſſion thereof before attone<g ref="char:EOLhyphen"/>ment could be made; and it is explained by <hi>Ainſworth</hi> in his Annotations upon them verſes, that no attonement was ever made without confeſſion. Yea though a man or woman did all other things that the Law did require, yet without confeſ<g ref="char:EOLhyphen"/>ſion there was no attonement made. And he that in confeſſi<g ref="char:EOLhyphen"/>on did moſt aggravate his ſin, was accounted the beſt man. Hence we may ſee, that as the Miniſters under the Goſpel are, ſo the Prieſts under the Law were after penitentiall confeſ<g ref="char:EOLhyphen"/>ſions Miniſters of reconciliation, but yet in a darker manner, and not ſo glorious. For it is written of them under the Go<g ref="char:EOLhyphen"/>ſpel.
+<note place="margin">2 Cor. 3.10. &amp; 3.6.8,9. 4 7.</note> 
+               <hi>For even that which was made glorious, had no glory in this re<g ref="char:EOLhyphen"/>ſpect, by reaſon of the glory that excelleth.</hi> Their Miniſtery was of the letter, ours of the Spirit. As it is written, <hi>He hath made us able miniſters of the New Teſtament, not of the letter, but of the Spirit:</hi> And again, hath given unto us the miniſtery of reconciliati<g ref="char:EOLhyphen"/>on. Such <hi>treaſure have we in earthen veſſels.</hi>
+            </p>
+            <p>Now for the time of the New-Teſtament, obſerve that our
+<pb n="4" facs="tcp:165577:4"/>Lord Chriſt, not onely as he was God, but alſo as he was man; did officiate this Miniſtery. He forgave ſins, and reconciled men to God. For he ſaith unto the ſick of the Palſie, <hi>Son be of good cheere, thy ſins be forgiven thee.</hi> At which the Scribes murmuring, our Lord replies; <hi>Whether is it eaſier to ſay thy ſins be forgiven thee, or to ſay, Ariſe and walk, but that you might know the Son of man hath power on earth to forgive ſins.</hi> What could the Lord have ſaid more plainly, he ſpake of very purpoſe as he ſaid, that they might know what power he had, not onely as he was God, for that was not doubted of, whether God could forgive ſins, but alſo as he was man, and on earth. Wherefore when the multitude heard and ſaw what was done, they glorified God who had given ſuch power unto men. This power as he was man, he purchaſed by his death upon the Croſſe. As it is written, <hi>For the ſuffering of death, he is crowned with glory and honour.</hi> And againe, <hi>Him hath God exalt<g ref="char:EOLhyphen"/>ed to be a Prince and a Saviour, to give repentance unto</hi> Iſrael <hi>and forgiveneſſe of ſins.</hi> And in another place, <hi>He hath obtained a more excellent Miniſtery.</hi> Obſerve the words, <hi>He hath obtained,</hi> not as he was God, that could not be, but as he was man, <hi>he obtained a more excellent Miniſtery.</hi> So that now we may ſee the Keyes of the Kingdome of Heaven, committed to a Man of our own fleſh; compaſſed about with infirmities even as our ſelves. <hi>The Son of man hath power on earth to forgive ſins.</hi> This is that <hi>Elihu, Job.</hi> 33.6. His words to mankind are: <hi>Behold I am according to thy wiſh in Gods ſtead; I alſo am formed out of the clay, Behold my terrour ſhall not make thee afraid.</hi>
+               <note place="margin">Job 9.33,34.</note> For <hi>Job</hi> had wiſht for ſuch a dayes-man to ſtand be twixt him and God, becauſe if God ſhould ſpeak, His terrour would be upon him. As it was with
+<hi>Iſrael</hi> at the delivering of the Law when they heard God ſpeaking unto them out of the mount, ſo terrible was it, that they deſired they might not hear the voice of God again, leſt they dyed: but deſired that God would deliver his Law to them by <hi>Moſes;</hi> which deſire God approves, and then ſaid, that he would ſend them a Prophet, raiſe him from among their brethren like unto <hi>Moſes,</hi> who indeed is Gods ſubſtitute. This is that great Prophet into whoſe mouth he ſaid he would put his word, and ſurely require it of every one.
+<note place="margin">Deut. 18.</note> And now our loving Lord condeſcending to mans requeſt, hath in<pb n="5" facs="tcp:165577:4"/>
+               <hi>ſending his Son in the likeneſſe of ſinfull fleſh</hi> fulfilled his good word. This is the man Chriſt Jeſus, whom the Father hath ſent with authority to forgive ſins;
+<note place="margin">Matth. 16.</note> which authority he firſt promiſed to <hi>Peter,</hi> ſaying, <hi>I will give thee the keyes of the kingdom of heaven, and whatſoever thou ſhalt binde on earth, ſhall be bound in heaven: and what ever thou ſhalt looſe on earth, ſhall be looſed in hea<g ref="char:EOLhyphen"/>ven.</hi> Which promiſe after he was riſen from the dead, he per<g ref="char:EOLhyphen"/>formed not onely to St. <hi>Peter,</hi> but alſo to the other Apoſtles, and that in a moſt ſolemne manner,
+<note place="margin">Ioh. 20.</note> when he ſaid to them again the ſecond time, <hi>Peace be unto you,</hi> he then ſaid, <hi>As my Father hath ſent me, ſo ſend I you. And when he had ſaid this, he brea<g ref="char:EOLhyphen"/>thed on them, and ſaid, Receive ye the holy Ghoſt. Whoſe ſoever ſins ye remit, they are remitted; and whoſe ſoever ſins ye retain, they are re<g ref="char:EOLhyphen"/>tained.</hi> Was ever any power upon earth put over from one to another in greater plainneſſe then this; <hi>As the Father,</hi> ſaith our Lord,
+<hi>ſent me to remit, and retain ſins, ſo ſend I you.</hi> What is done, is done from God the Father by my commiſſion, and the holy Ghoſt in you. To which end I now breathing upon you give, ſaying, <hi>Receive ye the holy Ghoſt, Whoſe ſoever ſins ye remit, they are remitted to them: and whoſe ſoever ſins ye retain, they are retained.</hi>
+            </p>
+            <p>And let none ſeriouſly imagine as ſome boldly affirm, that all this is done onely by Preaching and Baptiſme, and that is all which is here meant. It is moſt true, that ſins committed before Baptiſme, are ſacramentally forgiven by the waſhing of water in Baptiſme; but ſins cannot properly be ſaid to be retained in or by Baptiſme. And beſides the Apoſtles had au<g ref="char:EOLhyphen"/>thority before our Lords paſſion, both to preach and baptiſe without this ſolemne inveſtment, which commiſſion was en<g ref="char:EOLhyphen"/>larged after his reſurrection. The firſt Commiſſion being to Iſrael onely, but the ſecond inlargement to all the world.
+<note place="margin">Matth. 10.5. 28.18,20.</note> 
+               <hi>All power is given me in heaven and in earth: Go ye therefore into all Na<g ref="char:EOLhyphen"/>tions, teaching and baptizing. Lo I am with you alwayes, even unto the end of the world.</hi>
+            </p>
+            <p>So that I do here conclude, that our Lord Jeſus did not one<g ref="char:EOLhyphen"/>ly give unto his Diſciples authority to abſolve by Baptiſme ſuch ſins as were committed before, but alſo in a moſt ſolemne manner hath given them authority to remit unto the penitent ſins committed after Baptiſme, which mercy the learned call the ſecond Table, or board after ſhipwrack. The which who<pb n="4" facs="tcp:165577:5"/>ever contemns, muſt utterly periſh. For as at Sea when a ſhip ſplits, ſome laying hold upon boards are ſaved from drown<g ref="char:EOLhyphen"/>ing; ſo in the Church, ſuch as by deadly ſins have made their Baptiſme of none effect, are likely to periſh, unleſſe they hold upon the plank or board, namely, penitentiall Confeſſion, and prieſtly Abſolution. And truly that man doth not argue ratio<g ref="char:EOLhyphen"/>nally, that queſtions their authority in the latter more then in the former, why a man repenting of particular ſins committed after Baptiſme, may not by the Prieſt be abſolved as well as he was by a generall repentance of all ſins committed before Baptiſme. May we not ſay, Thou fool, is it not as eaſie to for<g ref="char:EOLhyphen"/>give a few ſins to a man truly penitent, though committed after Baptiſme, as to forgive a multitude, ſuppoſe to an aged man (as in the Apoſtles dayes many ſuch there were that came to be baptized) committed before baptiſme, for it is be<g ref="char:EOLhyphen"/>leeved that the ſins committed all his life time whereby the Miniſter in the name of the bleſſed Trinity, waſhed away in baptiſme; may not the ſame Miniſter by the ſame Authority viz. in the name of the Father, Son and Holy Ghoſt, forgive ſins committed after baptiſme?</p>
+            <p>
+               <note place="margin">
+                  <hi>Obj.</hi>
+               </note>But they object that ſins are looſed or retained by the word preached.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anſ.</hi>
+               </note>The Prophets of old preached. Men and women by good counſell and adviſe may occaſion the converſion of ſome: if ſuch, therefore have they Keyes of binding and looſing, there is no excellencie nor ſpeciality in that gift which our Lord is ſaid to beſtow upon <hi>Peter, I will give thee the Keyes, &amp;c.</hi>
+            </p>
+            <p>What ſhall we ſay to theſe things, ſhall we think that the Apoſtles of our Lord did not ſo underſtand their Maſter, and therefore did not ſo do, and practiſe? Certainly that they did ſo underſtand him, their own practice with the generall tradition of the Catholick Church,
+<hi>Eaſt</hi> and <hi>Weſt, Greek</hi> and <hi>Latin</hi> down, till this preſent preſumptuous age doth teſtifie. For till this laſt century, it was ſcarſe ever queſtioned, or in any diſreſpect.
+<note place="margin">2 Cor. 2.6.</note> See <hi>Saint Paul</hi> ſending an abſolution by the hands of <hi>Titus</hi> and <hi>Luke,</hi> for the inceſtuous perſon who before had been before excommunicated. See the Apoſtle demonſtra<g ref="char:EOLhyphen"/>ting his Authority received from Chriſt.
+<note place="margin">V. 10.</note> 
+               <hi>Sufficient to ſuch a man is this puniſhment. For your ſakes I forgave it in the perſon of
+<pb n="7" facs="tcp:165577:5"/>Chriſt,</hi> or in Chriſt ſtead or name he forgave him. What can be more plaine than this example in the firſt Epiſtle of bind<g ref="char:EOLhyphen"/>ing, here of looſing, there of puniſhing, here of pardoning, there of retaining ſins, here of remitting them. Moreover, as our Lord forgave the ſins of the man ſick of the <hi>Palſie, Mat.</hi> 9. So ſaith <hi>Saint James, If any man be ſick, let him ſend for the Prieſts of the Church:</hi> For I have ſeen it ſo tranſlated, which tranſlation by moderate learned men, is ſaid to be the trueſt, and moſt conſonant to the honour of God and Holy Scrip<g ref="char:EOLhyphen"/>tures. For if an originall word about holy things, ſhould beare in Engliſh two ſignifications, the one common and pro<g ref="char:EOLhyphen"/>fane, the other more ſacred, ſhall not the ſervants of God ren<g ref="char:EOLhyphen"/>der it in the moſt ſacred? As under the name of an Elder in thoſe times were contained Prieſts, Magiſtrates and old men, to which of theſe do we think <hi>Saint James</hi> ſends us for the recovery of bodily health by ghoſtly meanes, that we ſhould confeſſe our ſins unto them, and they pray over us, and in Chriſts name anoint us with oyle? Surely not to Magiſtrates nor old men, but Prieſts, except we will apply this to our Church-wardens or late made lay-elders, which experience ſhewes, are as little concerned in this as either Magiſtrates, or old men.</p>
+            <p>Therefore let us read it as the Church hath alwayes done, and common reaſon and experience ſheweth, if neceſſity con<g ref="char:EOLhyphen"/>ſtraines that the word muſt be rendred either Prieſts, Magi<g ref="char:EOLhyphen"/>ſtrates, old men, Church-wardens or lay-elders, for ſo the lear<g ref="char:EOLhyphen"/>ned affirm it may be Engliſhed of all. The word Prieſts, is moſt proper and conſonant, both to the matter to which it relates, and alſo to Gods Honour. <hi>Therefore if any be ſick, let him ſend, ſaith Saint</hi> James, <hi>for the Prieſts of the Church.</hi> For them it is moſt proper to pray for the ſick to have confeſſion made to them, and for them in Chriſts name to remit ſins, and to a<g ref="char:EOLhyphen"/>noint the ſick with oyle in the name of the Lord. Beſides, the late Engliſh Church, which ever ſtood at ſo great a diſtance from the
+<hi>Roman,</hi> did allow of the title or word Prieſt. And if ſhe could have had but ſome handſome colourable ground of an utter rejection of confeſſion and abſolution, ſhe would not for the advantage it gave to the <hi>Roman</hi> cauſe have inſert<g ref="char:EOLhyphen"/>ed it ſeverall times in her Liturgy, uſing the very ſame forme<pb n="8" facs="tcp:165577:6"/>as the <hi>Romaniſts</hi> do at the viſitation of the ſick, <hi>viz: By that au<g ref="char:EOLhyphen"/>thority which our Lord Jeſus Chriſt hath committed unto me, I abſolve thee from all thy ſins, in the name of the Father, Son, and holy Ghoſt. Amen.</hi> And beſides but for ſome reaſons beſt known to them<g ref="char:EOLhyphen"/>ſelves, they would have eſtabliſhed <hi>Confeſſion, Penance,</hi> and <hi>Ab<g ref="char:EOLhyphen"/>ſolution,</hi> in another manner then at that time they did. The words at the beginning of the
+<hi>Commination</hi> before Lent are theſe.</p>
+            <p>
+               <hi>Brethren, in the Primitive Church there was a godly diſcipline, that at the beginning of Lent ſuch perſons as were notorious ſinners were put to open penance, and puniſhed in this world, that their ſouls might be ſaved in the day of our-Lord; and that others admoniſhed by their example, might be more afraid to offend. Inſtead whereof (untill the ſaid diſcipline may be reſtored again) which is much to be wiſhed,</hi> (mark that) <hi>it is thought good that theſe Scriptures ſhould be read,</hi> &amp;c. By this we may ſee, as in a glaſſe, what opinion the Church of <hi>England</hi> had of theſe things. And God forbid we ſhould be ſuch enemies to our own ſouls, as ſpitefully to caſt off that which is conſonant, and not againſt old or new Teſtament, that which our Lord for our ſpeciall benefit did conſtitute, his Apoſtles officiate, the Churches univerſally till this pre<g ref="char:EOLhyphen"/>ſent age practiſe, with a full approbation of the Engliſh Church, ſcarce ever any contradicting; I mean private Con<g ref="char:EOLhyphen"/>feſſions and Abſolutions for the quieting of conſciences.</p>
+            <p>It is true, that private ſins being publickly confeſſed did occaſion ſcandall to ſome, which was by the Church in that Age forbidden.
+<hi>Socrat. l.</hi> 5. <hi>c.</hi> 19. which place with ſome others of like nature, ſome perſons for the hatred they generally bear to all Confeſſion, make a ground of writing and diſputing againſt it: but ſuch are not ſenſible of the evils that inſue up<g ref="char:EOLhyphen"/>on the omiſſion of Confeſſion, for by this the ordinary means both of the forgiveneſſe and purgation of ſins is rejected, and how ſalvation may be had in a Church which hath ſo done is very doubtfull. This donation of our Lord to his Apoſtle was a great mercy, an high prerogative to the Apoſtles, as ever was given to the ſons of men. To what men on earth, Angels or Arch-angels in heaven did he ever ſay, <hi>Whoſe ſins ye remit, they are remitted; what ye binde on earth ſhall be bound in heaven; what ye loſe on earth ſhall be looſed in heaven:</hi> yet to his Apoſtles, and<pb n="9" facs="tcp:165577:6"/>their ſucceſſors was this grace given.</p>
+            <p>Wherefore I pray ſuch as tender their ſoules ſafety, ſeri<g ref="char:EOLhyphen"/>ouſly to think and conſider on what the wiſdome of God hath appointed for mens ſins, namely, 2 Courts, one in Hea<g ref="char:EOLhyphen"/>ven, and another on earth. Of that in Heaven, our Lord is the onely judge, for the Father hath committed all judge<g ref="char:EOLhyphen"/>ment to the Son. But that on earth our Lord hath delegated and put over to his Miniſters or Prieſts, given the Keyes to them, and hath promiſed that what <hi>ſins they bind on earth ſhall be bound in Heaven, and what they looſe on earth ſhall be looſed in Heaven:</hi> he ſeems to give them the precedency, and promiſe to confirm in Heaven, what they do on earth. Then what art thou, O man, that dareſt deny or preſume to contradict the bleſſed trinity. The Father authorizeth the Son, and the Son authorizeth his Apoſtles, and their ſucceſſors, to forgive ſins; to which end they had the Holy Ghoſt given them, and therefore what they do, is done in the name of the Father, Son and Holy Ghoſt; and wilt thou venter to go time after time to the bleſſed Sacrament, and at laſt to death, and ſo to judgement, without a penitential preparative by confeſſion, preſuming of a pardon from God the Father without his ſub<g ref="char:EOLhyphen"/>ſtitute, becauſe thou didſt beleeve and fancie ſuch a thing. Doſt thou think that he will be pleaſed with thy preſumpti<g ref="char:EOLhyphen"/>on. Thou wilt not except of a pardon from his Miniſters, but wilt have it from himſelf. Oh the ſoule is pretious, and the redemption thereof ceaſeth for ever. Tremble when thou thinkeſt of going thy own way, at the beſt thou doſt but ven<g ref="char:EOLhyphen"/>ture, and to walk with God at adventure, is a dangerous path.</p>
+            <p>Remember that ſaying of our Lord. <hi>The Father heareth you if you ask according to his will:</hi> and whereas the Scriptures ſay that ſins of Infidels after converſion are waſhed away in Bap<g ref="char:EOLhyphen"/>tiſme, had it been pleaſing to God, and according to his will, for the Gentiles to pray for pardon without a Baptiſme? The like may be ſaid of penitentiall confeſſion. Let therefore the humble conſcientious Chriſtian addreſſe himſelf to God in Gods own way, namely, by thoſe who are appointed Shep<g ref="char:EOLhyphen"/>herds to watch over the ſouls of men.</p>
+            <p>
+               <note place="margin">
+                  <hi>Queſt.</hi>
+               </note>But ſome quaerie, Are no ſins forgiven in heaven, but ſuch<pb n="10" facs="tcp:165577:7"/>as are confeſſed to a Prieſt on earth.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anſ.</hi>
+               </note>I anſwer: our loving Lord layes no impoſſibilities upon us, for to relate all and every one of our ſins and failings which as our hairs are numberleſſe;
+<note place="margin">Pſal. 19.12.</note> 
+               <hi>For who can underſtand his errours?</hi> but when they come to our knowledge, we are bound to con<g ref="char:EOLhyphen"/>feſſe them. For ſo was Iſrael under the Law, which is as a School-maſter leading unto Chriſt. For as then upon confeſ<g ref="char:EOLhyphen"/>ſion, contrition and reſtitution, atonement was made by the blood of beaſts, in like manner do the Chriſtians Prieſts by virtue of the blood of Chriſt, warranted from our Lord, ab<g ref="char:EOLhyphen"/>ſolve the truly penitent. And this is the ancient beaten path, the good old way, which whoſoever faithfully treads, finds reſt unto his ſoul. But beſides theſe, there are other forcible inducements moving honeſt hearts, tender of their ſouls good, not to ſlight Confeſſion.</p>
+            <p n="1">1. Confeſſion much repreſſeth pride, for as much as it oc<g ref="char:EOLhyphen"/>caſioneth ſhame and bluſhing, which breeds humility.</p>
+            <p n="2">2. As it is a cauſe of humilitie, ſo is it alſo of charitie, mo<g ref="char:EOLhyphen"/>ving pitie towards the penitent, conſidering that our ſelves have been tempted alſo. A motive it will be that we bear the burdens of ſuch penitents.</p>
+            <p n="3">3. Confeſſion weakens the very power and dominion of ſin, for ſin having its ſeat, ſtrength and reſidence in the fleſh, ſo long as the fleſh is luſtie and frolick, ſin is ſo too; but Confeſ<g ref="char:EOLhyphen"/>ſion aſhameth, aſtoniſheth, and caſteth down the fleſh, by which ſin looſeth ſtrength, and doth not ſo eaſily carry captive.</p>
+            <p n="4">4. It is a means to make the ſoul to be at enmity with ſin, and even to cauſe it to loath, deteſt, and abhor that which doth daily bring it to ſuch ſhame, and in the end if amend<g ref="char:EOLhyphen"/>ment be not, to utter deſtruction.</p>
+            <p n="5">5. It is a ſtrong means to reduce a ſinner to a good life, for what man whoſe conſcience is not totally ſeared, and in a re<g ref="char:EOLhyphen"/>probate ſenſe will come often to Confeſſion with one and the ſame ſin but that ſuch a one muſt needs be ſomewhat re<g ref="char:EOLhyphen"/>formed.</p>
+            <p n="6">6. It helps the Prieſt much both in his private exhortati<g ref="char:EOLhyphen"/>ons, and rebukes; and alſo in his publick preachings: for by confeſſion he comes to know the diſeaſe of his ſheep, and what remedies to adminiſter.</p>
+            <p n="7">
+               <pb n="11" facs="tcp:165577:7"/>7. As it helps the Miniſter in applying the word of God ſeaſonably to the ſinner, ſo doth it how to put up petitions for the penitent; For as the Prieſts under the Law carried the names of the twelve Tribes before the Lord, and <hi>Ezekiah</hi> ſpread the letter before God in the Temple; ſo doth the faith<g ref="char:EOLhyphen"/>full Paſtor thoſe Souls committed to his charge. And the con<g ref="char:EOLhyphen"/>feſſions of penitents do both inform the Paſtors underſtand<g ref="char:EOLhyphen"/>ing how to pray, and ſtir up his fervour in prayer for the pe<g ref="char:EOLhyphen"/>nitent.</p>
+            <p n="8">8. It is an excellent meanes, to ſet in this world many crooked things ſtraight, which through the Paſtors wiſdome may be done; many ſuites in law, Scandals and offences ſtop<g ref="char:EOLhyphen"/>ped or hindred. Yea how many are there, that by this meanes might be kept from making themſelves away.</p>
+            <p n="9">9. It is a ſpecial meanes, not onely to obtaine pardon by Gods meſſenger in a miniſteriall way, but alſo peace to the conſcience. For true penitentiall confeſſion, doth pierce the very heavens, and ſo move God, that he ſaith to penitent <hi>Ephraim,</hi> being aſhamed and confounded becauſe of his ſin,
+<note place="margin">Jer. 31.19.</note> 
+               <hi>My bowels are troubled for him, I will ſurely have mercy on him ſaith the Lord.</hi>
+            </p>
+            <p n="10">10. True and real confeſſion, prepares and makes a man ready for death. For the penitential ſinner doth ſo manifeſt and lay open his ſin with hearty ſorrow, ſhame and bluſhing for the ſame, that the ſoule is thereby arreigned, yea judged and acquitted. Of ſuch a one ſaith God, <hi>Job.</hi> 33.27,28. <hi>He looked upon men, and if any ſay, I have ſinned, and perverted that which was right, and it profited me not.</hi> If any make that manner of confeſſion which God requires, mark the anſwer of God, ver. 28. <hi>He will deliver his ſoule from going down into the pit, and his life ſhall ſee the light.</hi>
+            </p>
+            <p>Theſe things conſidered, if there were no Tract of Confeſ<g ref="char:EOLhyphen"/>ſion in the old Teſtament, no Inſtitution of Chriſt in the new, no practiſe of the Apoſtles or ſucceeding Ages to be found: if God ſhould ſo pleaſe that the Church of this preſent Age for the much profit that comes to the ſoules of men by confeſſion, ſhould think fit to lay this ſo neceſſarie and profitable a bur<g ref="char:EOLhyphen"/>den upon her members, what man without manifeſt ſin and wrong to his own ſoul, but would yeeld obedience? By what<pb n="12" facs="tcp:165577:8"/>Scripture can any man ſhew did the Apoſtles do away circum<g ref="char:EOLhyphen"/>ciſion, but onely by a conference one with another in that holy counſell at Jeruſalem,
+<note place="margin">Act 15.</note> by which they perceived the un<g ref="char:EOLhyphen"/>profitableneſſe thereof: And after St. <hi>Peter</hi> had ſhewed how the holy Ghoſt was given to men uncircumciſed, in the very ſame miraculous manner as it was to the circumciſion in the begin<g ref="char:EOLhyphen"/>ning,
+<note place="margin">Act 11.15.</note> and that want of circumciſion did not hinder the holy Ghoſt from deſcending upon men, then forthwith they con<g ref="char:EOLhyphen"/>cluded that the Gentiles ſhould not be circumciſed, and ſo ſent their Decrees to all the Churches; never mentioning any Scri<g ref="char:EOLhyphen"/>pture, onely the unprofitableneſſe of circumciſion, which St. <hi>Paul</hi> mentions in ſeverall places, as,
+<note place="margin">1 Cor. 7.19.</note> 
+               <hi>Circumciſion is nothing, nor uncircumciſion, but the keeping of the Commandments of God.</hi> Again,
+<note place="margin">Gal 6.15.</note> 
+               <hi>Circumciſion availeth not, nor uncircumciſion, but faith that worketh by love.</hi> Gal. 5.6. Again, <hi>Circumciſion nor uncircumciſion availeth not, but a new creature.</hi> Upon this very ground did the holy A<g ref="char:EOLhyphen"/>poſtles do away circumciſion, which did not give the proud and ſelf willed of that Age ſatisfaction, but was an occaſion of their ſtumbling, and falling into Sects as thoſe of the con<g ref="char:EOLhyphen"/>ciſion, Ebionites, and others. And therefore moſt offenſive to God, and dangerous to the ſoul, is the ſin of diſobedience to things commanded and enjoyned, although the grounds thereof be not ſo clear, and manifeſt as we would have them to be. If a diſputable controverſie did ariſe in Iſrael, the men were to aſcend from Councell to Councell, till they came to the great Sanhedrim in Jeruſalem, wherof the high Prieſt was chief, and who ever did not ſubmit his underſtanding to what the ſaid high Councell determined, was to be put to death, that all Iſrael might hear, and fear, and do no more preſum<g ref="char:EOLhyphen"/>ptuouſly. This was God Law, <hi>Deut.</hi> 17. And certainly that counſell of the Apoſtles, <hi>Act.</hi> 15. did not give ſatisfaction to all Chriſtians then in being. The proud and preſumptuous would not ſubmit. Their not conceiving how ſuch and ſuch things could be done, would not ſerve their turn, they muſt ſubmit God approves not of ſuch proud ſelf-willed ones. The ſin of diſobedience is great, and if it be ſo for things not ſo manifeſtly plain to be underſtood, as the doing away of cir<g ref="char:EOLhyphen"/>cumciſion by the Apoſtles, not onely without but ſeemingly againſt Scriptures, for circumciſion was not of <hi>Moſes,</hi> but be<g ref="char:EOLhyphen"/>fore<pb n="13" facs="tcp:165577:8"/>him of the Patriarks; what may be thought of diſobe<g ref="char:EOLhyphen"/>dience to a thing ſo manifeſt as this of Confeſſion is, as appea<g ref="char:EOLhyphen"/>reth by the Tract thereof before Chriſt, the Inſtitution of it by Chriſt, and that in ſo great a ſolemnity; the manifeſt practiſe of the Apoſtles, and all ſucceeding Churches down to this age, and that upon ſuch godly and wholſome grounds, as no pious ſoul can gainſay. If all this be not ground and reaſon ſufficient for our generation to move and binde them to obe<g ref="char:EOLhyphen"/>dience, God knows then what will become of them; but as others by diſobedience fell from the Church, and as we may ſay even periſhed in the gainſaying of <hi>Core,</hi> ſo it is to be feared that even theſe will fall into divers Sects, and never return to take hold of the paths of life.</p>
+            <p>And let none ſay, they cannot beleeve that any men on earth can forgive ſins in their own name and authority. It is true, none can: but God through our Lord Jeſus Chriſt ha<g ref="char:EOLhyphen"/>ving given them this authority, let us not queſtion the wiſ<g ref="char:EOLhyphen"/>dome of God, but beleeve.
+<note place="margin">2 King 5.12.</note> When the Prophet bid
+<hi>Naaman</hi> the Syrian for the cure of his leproſie to go and waſh in Jordan, he was angry at the Prophet, and ſaid, <hi>I thought he would have come, and prayed, and put his hand over the place, and will he not? but bids me go and waſh ſeven times in Jordan.</hi> Thus <hi>Naaman</hi> in his conceit contemned the wiſdom of God; and if he had ſo per<g ref="char:EOLhyphen"/>ſevered, he had not been cured of his leproſie. God Almighty grant us heavenly wiſdome, humble minds, and grace, not to contend, and conteſt againſt his Church, eſpecially in things evident, becauſe to worldly wiſdome they ſeem but fooliſh<g ref="char:EOLhyphen"/>neſſe. Let us remember that ſaying, <hi>The wiſdome of God is foo<g ref="char:EOLhyphen"/>liſhneſſe with men, he taketh the wiſe in their own craftineſſe.</hi> Our Lord preſerve us from all proud and by-pachs, and every evill way. Which is the earneſt prayer of</p>
+            <closer>
+               <signed>Your Friend, T. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
